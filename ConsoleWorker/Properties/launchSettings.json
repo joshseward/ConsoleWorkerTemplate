@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleWorker": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    }
+  }
+}
